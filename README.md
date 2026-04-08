@@ -12,4 +12,13 @@ estamos documentando los primeros pasos en el control de versiones
 * **git hub**
 * **Markdown**
 
-### 
+### como usar el repositor
+ur1
+
+
+### autor
+Angel avila 
+
+### status
+finalizado en la version 1.0
+
